@@ -6,6 +6,8 @@ public class RandomKlasse {
 
 		System.out.println("HEEEJ EMIR");
 		//HEY
+		//hey
+		
 	}
 
 }
