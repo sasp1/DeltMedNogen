@@ -6,7 +6,7 @@ public class RandomKlasse {
 		//HEY
 		//hey
 		System.out.println("Hej seba 100");
-		
+	 	System.out.println("sut en shawarma");
 		
 		drawHeart();
 		drawBLANK();
